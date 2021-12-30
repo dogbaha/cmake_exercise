@@ -1,0 +1,4 @@
+#define cTest_version_major @cTest_VERSION_MAJOR@
+#define cTest_version_minor @cTest_VERSION_MINOR@
+
+#cmakedefine USE_LOG
